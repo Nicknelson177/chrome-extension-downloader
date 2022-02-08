@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 
-# Usage: ./download <chrome extension id>
+# Usage: ./download <ncmnhiijmdhplkmkpejmmbpjiojchefe>
 
 require 'fileutils'
 require 'net/https'
